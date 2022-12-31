@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>john-matychuk-dJdcb11aboQ-unsplash.jpg</filename>
+	<path>C:\Users\wong9\Desktop\Anthony\2.0 Cent\Sem4\comp318_UI_Smart_Device\Final_Project\images\john-matychuk-dJdcb11aboQ-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5402</width>
+		<height>3601</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1896</xmin>
+			<ymin>993</ymin>
+			<xmax>3496</xmax>
+			<ymax>2570</ymax>
+		</bndbox>
+	</object>
+</annotation>

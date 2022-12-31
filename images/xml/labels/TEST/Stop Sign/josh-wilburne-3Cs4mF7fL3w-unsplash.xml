@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>josh-wilburne-3Cs4mF7fL3w-unsplash.jpg</filename>
+	<path>C:\Users\wong9\Desktop\Anthony\2.0 Cent\Sem4\comp318_UI_Smart_Device\Final_Project\images\josh-wilburne-3Cs4mF7fL3w-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1205</xmin>
+			<ymin>720</ymin>
+			<xmax>1416</xmax>
+			<ymax>927</ymax>
+		</bndbox>
+	</object>
+</annotation>

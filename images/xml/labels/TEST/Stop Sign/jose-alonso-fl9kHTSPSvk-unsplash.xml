@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>jose-alonso-fl9kHTSPSvk-unsplash.jpg</filename>
+	<path>C:\Users\wong9\Desktop\Anthony\2.0 Cent\Sem4\comp318_UI_Smart_Device\Final_Project\images\jose-alonso-fl9kHTSPSvk-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1990</xmin>
+			<ymin>2031</ymin>
+			<xmax>2206</xmax>
+			<ymax>2242</ymax>
+		</bndbox>
+	</object>
+</annotation>

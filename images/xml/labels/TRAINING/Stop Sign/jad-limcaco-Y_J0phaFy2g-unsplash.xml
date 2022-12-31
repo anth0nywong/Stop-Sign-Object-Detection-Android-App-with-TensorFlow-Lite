@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>jad-limcaco-Y_J0phaFy2g-unsplash.jpg</filename>
+	<path>C:\Users\wong9\Desktop\Anthony\2.0 Cent\Sem4\comp318_UI_Smart_Device\Final_Project\images\jad-limcaco-Y_J0phaFy2g-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4895</width>
+		<height>2992</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2426</xmin>
+			<ymin>553</ymin>
+			<xmax>2991</xmax>
+			<ymax>1115</ymax>
+		</bndbox>
+	</object>
+</annotation>

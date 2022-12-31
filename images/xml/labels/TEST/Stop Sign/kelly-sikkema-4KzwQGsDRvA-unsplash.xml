@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>kelly-sikkema-4KzwQGsDRvA-unsplash.jpg</filename>
+	<path>C:\Users\wong9\Desktop\Anthony\2.0 Cent\Sem4\comp318_UI_Smart_Device\Final_Project\images\kelly-sikkema-4KzwQGsDRvA-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5568</width>
+		<height>3250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3382</xmin>
+			<ymin>1516</ymin>
+			<xmax>3561</xmax>
+			<ymax>1698</ymax>
+		</bndbox>
+	</object>
+</annotation>

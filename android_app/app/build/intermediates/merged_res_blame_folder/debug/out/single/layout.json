@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\wong9\\Desktop\\Anthony\\2.0 Cent\\Sem4\\comp318_UI_Smart_Device\\Final_Project\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\wong9\\Desktop\\Anthony\\2.0 Cent\\Sem4\\comp318_UI_Smart_Device\\Final_Project\\android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wong9\\Desktop\\Anthony\\2.0 Cent\\Sem4\\comp318_UI_Smart_Device\\Final_Project\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_camera.xml",
+        "source": "C:\\Users\\wong9\\Desktop\\Anthony\\2.0 Cent\\Sem4\\comp318_UI_Smart_Device\\Final_Project\\android\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\wong9\\Desktop\\Anthony\\2.0 Cent\\Sem4\\comp318_UI_Smart_Device\\Final_Project\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\info_bottom_sheet.xml",
+        "source": "C:\\Users\\wong9\\Desktop\\Anthony\\2.0 Cent\\Sem4\\comp318_UI_Smart_Device\\Final_Project\\android\\app\\src\\main\\res\\layout\\info_bottom_sheet.xml"
+    }
+]

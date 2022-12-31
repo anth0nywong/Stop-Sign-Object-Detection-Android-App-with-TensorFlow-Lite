@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>brantley-neal-_CAvB1vYIlY-unsplash.jpg</filename>
+	<path>C:\Users\wong9\Desktop\Anthony\2.0 Cent\Sem4\comp318_UI_Smart_Device\Final_Project\images\brantley-neal-_CAvB1vYIlY-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2603</width>
+		<height>3904</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1203</xmin>
+			<ymin>1141</ymin>
+			<xmax>1387</xmax>
+			<ymax>1347</ymax>
+		</bndbox>
+	</object>
+</annotation>

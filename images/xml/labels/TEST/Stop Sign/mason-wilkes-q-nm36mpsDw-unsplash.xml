@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>mason-wilkes-q-nm36mpsDw-unsplash.jpg</filename>
+	<path>C:\Users\wong9\Desktop\Anthony\2.0 Cent\Sem4\comp318_UI_Smart_Device\Final_Project\images\mason-wilkes-q-nm36mpsDw-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5610</width>
+		<height>3740</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>825</xmin>
+			<ymin>1069</ymin>
+			<xmax>1283</xmax>
+			<ymax>1519</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3933</xmin>
+			<ymin>1003</ymin>
+			<xmax>4375</xmax>
+			<ymax>1461</ymax>
+		</bndbox>
+	</object>
+</annotation>

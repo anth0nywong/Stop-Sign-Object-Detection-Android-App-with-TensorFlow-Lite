@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ajda-atz-HEKgHLpNgGk-unsplash.jpg</filename>
+	<path>C:\Users\wong9\Desktop\Anthony\2.0 Cent\Sem4\comp318_UI_Smart_Device\Final_Project\images\ajda-atz-HEKgHLpNgGk-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3553</width>
+		<height>4737</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3299</xmin>
+			<ymin>3003</ymin>
+			<xmax>3436</xmax>
+			<ymax>3129</ymax>
+		</bndbox>
+	</object>
+</annotation>

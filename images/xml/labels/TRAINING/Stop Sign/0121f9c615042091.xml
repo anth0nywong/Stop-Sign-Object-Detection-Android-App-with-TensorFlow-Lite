@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0121f9c615042091.jpg</filename>
+	<path>C:\Users\wong9\Desktop\Anthony\2.0 Cent\Sem4\comp318_UI_Smart_Device\Final_Project\images\0121f9c615042091.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>680</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>703</xmin>
+			<ymin>356</ymin>
+			<xmax>797</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

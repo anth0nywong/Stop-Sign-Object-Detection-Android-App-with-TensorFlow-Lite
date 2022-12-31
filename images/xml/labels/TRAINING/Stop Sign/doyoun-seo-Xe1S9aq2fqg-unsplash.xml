@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>doyoun-seo-Xe1S9aq2fqg-unsplash.jpg</filename>
+	<path>C:\Users\wong9\Desktop\Anthony\2.0 Cent\Sem4\comp318_UI_Smart_Device\Final_Project\images\doyoun-seo-Xe1S9aq2fqg-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2823</width>
+		<height>2823</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>633</xmin>
+			<ymin>1383</ymin>
+			<xmax>1153</xmax>
+			<ymax>1883</ymax>
+		</bndbox>
+	</object>
+</annotation>

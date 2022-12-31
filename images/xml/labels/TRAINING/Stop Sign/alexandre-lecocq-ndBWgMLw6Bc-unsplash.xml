@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>alexandre-lecocq-ndBWgMLw6Bc-unsplash.jpg</filename>
+	<path>C:\Users\wong9\Desktop\Anthony\2.0 Cent\Sem4\comp318_UI_Smart_Device\Final_Project\images\alexandre-lecocq-ndBWgMLw6Bc-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4309</width>
+		<height>2426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2793</xmin>
+			<ymin>1717</ymin>
+			<xmax>2966</xmax>
+			<ymax>1894</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1316</xmin>
+			<ymin>1742</ymin>
+			<xmax>1466</xmax>
+			<ymax>1897</ymax>
+		</bndbox>
+	</object>
+</annotation>

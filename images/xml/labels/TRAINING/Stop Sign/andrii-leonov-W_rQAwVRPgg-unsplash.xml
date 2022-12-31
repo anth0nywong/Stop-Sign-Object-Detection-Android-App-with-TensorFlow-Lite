@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>andrii-leonov-W_rQAwVRPgg-unsplash.jpg</filename>
+	<path>C:\Users\wong9\Desktop\Anthony\2.0 Cent\Sem4\comp318_UI_Smart_Device\Final_Project\images\andrii-leonov-W_rQAwVRPgg-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2917</width>
+		<height>3890</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>787</xmin>
+			<ymin>1398</ymin>
+			<xmax>2266</xmax>
+			<ymax>2803</ymax>
+		</bndbox>
+	</object>
+</annotation>

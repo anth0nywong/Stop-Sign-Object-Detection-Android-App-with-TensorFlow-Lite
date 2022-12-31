@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>renan-kamikoga-vxx6ilmR-W4-unsplash.jpg</filename>
+	<path>C:\Users\wong9\Desktop\Anthony\2.0 Cent\Sem4\comp318_UI_Smart_Device\Final_Project\images\renan-kamikoga-vxx6ilmR-W4-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3613</width>
+		<height>5472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3190</xmin>
+			<ymin>3153</ymin>
+			<xmax>3367</xmax>
+			<ymax>3323</ymax>
+		</bndbox>
+	</object>
+</annotation>

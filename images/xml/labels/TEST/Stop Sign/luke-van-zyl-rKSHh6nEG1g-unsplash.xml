@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>luke-van-zyl-rKSHh6nEG1g-unsplash.jpg</filename>
+	<path>C:\Users\wong9\Desktop\Anthony\2.0 Cent\Sem4\comp318_UI_Smart_Device\Final_Project\images\luke-van-zyl-rKSHh6nEG1g-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3376</width>
+		<height>6000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>8</ymin>
+			<xmax>2150</xmax>
+			<ymax>2649</ymax>
+		</bndbox>
+	</object>
+</annotation>

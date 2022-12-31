@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>olivia-connell-Tc9KWrlOL0E-unsplash.jpg</filename>
+	<path>C:\Users\wong9\Desktop\Anthony\2.0 Cent\Sem4\comp318_UI_Smart_Device\Final_Project\images\olivia-connell-Tc9KWrlOL0E-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2134</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1325</xmin>
+			<ymin>1658</ymin>
+			<xmax>1420</xmax>
+			<ymax>1754</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1117</xmin>
+			<ymin>1545</ymin>
+			<xmax>1166</xmax>
+			<ymax>1599</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1172</xmin>
+			<ymin>1611</ymin>
+			<xmax>1199</xmax>
+			<ymax>1641</ymax>
+		</bndbox>
+	</object>
+</annotation>
