@@ -2,11 +2,9 @@
 
 ## Tech
 
-###### LabelImg
+###### [LabelImg](https://github.com/heartexlabs/labelImg/)
 
 LabelImg is an open source image annotation tool created by Tzutalin. In this project we annotated over 150 stop sign images for training, validating, and testing object detection model.
-
-[Respository for LabelImg](https://github.com/heartexlabs/labelImg/).
 
 
 ###### GCS
