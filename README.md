@@ -2,19 +2,19 @@
 
 ## Tech
 
-### LabelImg
+###### LabelImg
 
 Annotated Images for training object detection model
 
-## GCS
+###### GCS
 
 Saved annotated images in bucket for online access.
 
-###Python and Google Colab
+###### Python and Google Colab
 
 Created Object Detection Model with TensorFlow Lite Model Maker Library. The trained Model is saved in model folder of this repository.
 
-###Android Studio
+###### Android Studio
 
 Created the mobile application for Stop Sign Object Detection with Android Studio as the IDE.
 
